@@ -2,7 +2,6 @@ from ete3 import Tree, TreeStyle, TextFace
 from scipy.cluster.hierarchy import linkage, dendrogram, cut_tree, to_tree
 import numpy as np
 from random import shuffle
-import tqdm
 from scipy import stats
 
 
